@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    font-family: sans-serif;
+}
+#main-navbar{
+    background-color: #051014;
+}
+#main .carousel-item img{
+    max-height: 70vh;
+    object-fit: cover;
+    opacity: 0.7;
+}
+#carousel-main .overlay{
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.5);
+    color: white;
+}
+#lugar-fecha{
+    background-color: #cdddddff;
+}
+#lugar-fecha p{
+    color: black;
+}
+#inscribe p{
+    color: black;
+}
+body{
+    background-color: #ACBDBA;
+}
+
+footer{
+    background-color: #051014;
+}
+footer a, p{
+    color: lightgray;
+}
+footer a:hover{
+    color: deepskyblue;
+}
+
+--ash-gray: #acbdbaff;
+--gainsboro: #cdddddff;
+--glossy-grape: #a599b5ff;
+--jet: #2e2f2fff;
+--rich-black-fogra-29: #051014ff;
